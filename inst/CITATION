@@ -1,0 +1,12 @@
+bibentry(bibtype = "Article",
+         title = "Comparing two correlated C indices with right-censored survival outcome: a one-shot nonparametric approach",
+         author = c(person("Le", "Kang"),
+                    person("Weijie", "Chen"),
+                    person("Nicholas", "Petrick", "A."),
+                    person("Brandon", "Gallas", "D.")),
+         year = "2015",
+         volume = "34",
+         number = "4",
+         pages = "685-703",
+         journal = "Statistics in Medicine",
+         url = "http://dx.doi.org/10.1002/sim.6370")
