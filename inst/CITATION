@@ -9,4 +9,4 @@ bibentry(bibtype = "Article",
          number = "4",
          pages = "685-703",
          journal = "Statistics in Medicine",
-         url = "http://dx.doi.org/10.1002/sim.6370")
+         url = "https://doi.org/10.1002/sim.6370")
